@@ -31,7 +31,7 @@ The form validates required inputs and email format, displays an explicit previe
 
 The care copy reflects the owner's stated offerings, including personal care, cognitive support, aging in place and end-of-life support, an RN available as needed, and respite care. Hospice and other medical services are coordinated with outside providers. The site retains coming-soon status and does not invent an opening date, street address, or facility license claim.
 
-Domain registration, domain connection, hosting, and deployment are not configured. There are no automatic publishing workflows.
+Domain registration and custom-domain connection are not configured. There are no automatic publishing workflows. A separate Sites deployment is being prepared for review. The page requests that search engines do not index it.
 
 ## Photography
 
@@ -41,6 +41,6 @@ All photography is illustrative, not actual residents, staff, or premises.
 - `about-woman.jpg`: Mikhail Nilov / Pexels photo 6972646, https://www.pexels.com/photo/close-up-shot-of-an-elderly-woman-smiling-6972646/
 - `elderly-black-woman.jpg`: Shopify Photos / Burst, https://www.shopify.com/stock-photos/photos/elderly-lady-smiles
 - `lifestyle.jpg`: Unsplash interior photo, https://images.unsplash.com/photo-1600210492486-724fe5c67fb0
-- `nurse-care.jpg`: Adobe Stock image 409195985, sourced for local design review from https://www.oncc.org/. This is a model image, not verified 1122 staff. Obtain an appropriate stock license or replace with approved staff imagery before public launch.
+- `nurse-care.jpg`: Pexels photo 6129501, https://www.pexels.com/photo/portrait-of-a-nurse-smiling-6129501/. Illustrative model image, not actual 1122 staff.
 
 Design direction was informed by https://farmwoodseniorliving.com/ and https://www.seniorlivingatcloverhill.com/. Copy and layout are original to this project.
