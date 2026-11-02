@@ -25,7 +25,7 @@ No installation or build step is required. All images, styles, and scripts are l
 
 ## Form behavior
 
-The form validates required inputs and email format, displays an explicit preview confirmation, and clears the fields. It sends no information, stores no data, and subscribes nobody. Connect a real contact destination and appropriate privacy information before launch.
+Inquiries are sent through FormSubmit to janicetnixon@gmail.com. The recipient must activate FormSubmit through the verification email before delivery works. The form validates required fields, prevents duplicate submissions, keeps entered details if delivery cannot be confirmed, and provides a direct email fallback. FormSubmit processes the submitted information and documents a 30-day submission archive. Do not collect medical records or sensitive health information through this general inquiry form.
 
 ## Content and launch details
 

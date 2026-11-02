@@ -16,3 +16,5 @@
 .story-photo img{object-position:center 35%}
 
 .contact-photo{height:340px}.contact-photo img{object-position:55% 30%}@media(max-width:760px){.contact-photo{height:290px}.contact-photo img{object-position:57% 30%}}
+
+.button:disabled{opacity:.65;cursor:wait;transform:none}
