@@ -22,3 +22,5 @@
 .intro .story-photo{min-height:0;height:430px;align-self:center}.story-photo img{object-position:center;filter:brightness(1.08)}.life-art>img{object-position:center 35%}.contact-photo img{object-position:center}@media(max-width:760px){.intro .story-photo{min-height:0;height:330px}.story-photo img{object-position:center}.story-photo figcaption{bottom:12px;font-size:18px;padding:16px}}
 
 .story-photo img{filter:none;object-position:center 35%}
+
+.contact-details{display:grid;gap:16px;margin:25px 0}.contact-details a{display:block;padding:12px 0;border-bottom:1px solid var(--line)}.contact-details span{display:block;font-size:9px;letter-spacing:2px;color:#8a7041}.contact-details strong{display:block;font-size:17px;font-weight:400;color:var(--green);overflow-wrap:anywhere}.contact-details a:hover strong{text-decoration:underline;text-underline-offset:4px}.footer-contact{display:flex;flex-direction:column;gap:8px;font-size:13px;color:var(--gold)}.footer-contact a:hover{text-decoration:underline}
