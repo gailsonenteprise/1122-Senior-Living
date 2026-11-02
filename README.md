@@ -46,3 +46,5 @@ All photography is illustrative, not actual residents, staff, or premises.
 Design direction was informed by https://farmwoodseniorliving.com/ and https://www.seniorlivingatcloverhill.com/. Copy and layout are original to this project.
 
 Image arrangement update: About uses Pexels photo 11907183 (https://www.pexels.com/photo/elderly-couple-looking-at-the-camera-11907183/); the prior About portrait moved to Lifestyle, and the interior photo moved to Contact.
+
+About image replaced with an original AI-generated illustration in a photographic style, created with the built-in image generation tool. Fictional people, not actual residents. Asset: assets/elderly-black-couple-original.png. Prompt: Original editorial lifestyle photograph of a smiling elderly Black couple in their late seventies seated closely on a cream sofa in a bright residential living room, dusty rose cardigan and sage shirt, soft daylight, realistic mature skin, warm and dignified, both faces visible, no text or logos.
