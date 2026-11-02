@@ -44,3 +44,5 @@ All photography is illustrative, not actual residents, staff, or premises.
 - `nurse-care.jpg`: Pexels photo 6129501, https://www.pexels.com/photo/portrait-of-a-nurse-smiling-6129501/. Illustrative model image, not actual 1122 staff.
 
 Design direction was informed by https://farmwoodseniorliving.com/ and https://www.seniorlivingatcloverhill.com/. Copy and layout are original to this project.
+
+Image arrangement update: About uses Pexels photo 11907183 (https://www.pexels.com/photo/elderly-couple-looking-at-the-camera-11907183/); the prior About portrait moved to Lifestyle, and the interior photo moved to Contact.

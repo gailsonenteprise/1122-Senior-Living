@@ -18,3 +18,5 @@
 .contact-photo{height:340px}.contact-photo img{object-position:55% 30%}@media(max-width:760px){.contact-photo{height:290px}.contact-photo img{object-position:57% 30%}}
 
 .button:disabled{opacity:.65;cursor:wait;transform:none}
+
+.intro .story-photo{min-height:0;height:430px;align-self:center}.story-photo img{object-position:center;filter:brightness(1.08)}.life-art>img{object-position:center 35%}.contact-photo img{object-position:center}@media(max-width:760px){.intro .story-photo{min-height:0;height:330px}.story-photo img{object-position:center}.story-photo figcaption{bottom:12px;font-size:18px;padding:16px}}
